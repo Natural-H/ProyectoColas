@@ -1,0 +1,29 @@
+[ {
+  "id" : 0,
+  "departamento" : "Sala de conferencias",
+  "nombre" : "Juan",
+  "fecha" : "2023/12/14",
+  "reporte" : "kp",
+  "ticket" : "1111"
+}, {
+  "id" : 1,
+  "departamento" : "Servicio técnico",
+  "nombre" : "A",
+  "fecha" : "2023/12/14",
+  "reporte" : "Algun motivo",
+  "ticket" : "ticket"
+}, {
+  "id" : 2,
+  "departamento" : "Redes",
+  "nombre" : "B",
+  "fecha" : "2023/12/14",
+  "reporte" : "Motivo 2",
+  "ticket" : "ticket 3"
+}, {
+  "id" : 3,
+  "departamento" : "Mercadotecnia",
+  "nombre" : "C",
+  "fecha" : "2023/12/14",
+  "reporte" : "Motivo 4",
+  "ticket" : "ticket 4"
+} ]
